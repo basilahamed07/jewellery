@@ -95,3 +95,13 @@ input::placeholder{
 #colours{
     color: #FFD700 !important;
 }
+
+#form_borders{
+    border: none !important;
+    background-color: black;
+}
+
+.form_borders{
+    border: none !important;
+    background-color: black;
+}
